@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**varshith-n/varshith-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 H# 💫 About Me:
 I am a Computer Science undergraduate at IIIT Bangalore with a strong interest in systems programming and backend development. I enjoy building low-level implementations such as FFT in MIPS assembly and simulating network protocols like TCP Tahoe. My work focuses on understanding how systems operate under the hood and designing efficient, modular solutions. I am particularly interested in operating systems, computer networks, and performance-oriented software development.
 
