@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-H# 💫 About Me:
+💫 About Me:
 I am a Computer Science undergraduate at IIIT Bangalore with a strong interest in systems programming and backend development. I enjoy building low-level implementations such as FFT in MIPS assembly and simulating network protocols like TCP Tahoe. My work focuses on understanding how systems operate under the hood and designing efficient, modular solutions. I am particularly interested in operating systems, computer networks, and performance-oriented software development.
 
 
